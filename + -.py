@@ -10,5 +10,7 @@ elif number2 == "/":
     print(int(number) / int(number1))
 elif number2 == "*":
     print(int(number) * int(number1))
+else:
+    print("Wystąpił błąd")
 
 
